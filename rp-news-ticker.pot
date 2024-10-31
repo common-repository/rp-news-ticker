@@ -1,0 +1,122 @@
+# Translation of the WordPress plugin RP News Ticker 0.4 by Alexander Missa, offers@rationalplanet.com.
+# Copyright (C) 2010 Alexander Missa, offers@rationalplanet.com
+# This file is distributed under the same license as the RP News Ticker package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RP News Ticker 0.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/rp-news-ticker\n"
+"POT-Creation-Date: 2010-09-15 18:11+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: rp-news-ticker.php:60
+msgid "jS F, Y G:i"
+msgstr ""
+
+#: rp-news-ticker.php:111 rp-news-ticker.php:112
+msgid "News Ticker (RP)"
+msgstr ""
+
+#: rp-news-ticker.php:149
+msgid "from categories"
+msgstr ""
+
+#: rp-news-ticker.php:150
+msgid "from categories, randomized"
+msgstr ""
+
+#: rp-news-ticker.php:151
+msgid "explicit content"
+msgstr ""
+
+#: rp-news-ticker.php:152
+msgid "explicit content, randomized"
+msgstr ""
+
+#: rp-news-ticker.php:153
+msgid "both in randomized order"
+msgstr ""
+
+#: rp-news-ticker.php:154
+msgid "from categories, explicit content"
+msgstr ""
+
+#: rp-news-ticker.php:155
+msgid "explicit content, from categories"
+msgstr ""
+
+#: rp-news-ticker.php:182
+msgid "Category IDs (comma separated)"
+msgstr ""
+
+#: rp-news-ticker.php:185
+msgid "Leave empty for all categories."
+msgstr ""
+
+#: rp-news-ticker.php:188
+msgid "Limit Latest Posts"
+msgstr ""
+
+#: rp-news-ticker.php:194
+msgid "Scroller Styles"
+msgstr ""
+
+#: rp-news-ticker.php:199
+msgid "Explicit Content"
+msgstr ""
+
+#: rp-news-ticker.php:204
+msgid ""
+"When this field is non-empty, the scroller tries to use <strong>li</strong> "
+"elements from it."
+msgstr ""
+
+#: rp-news-ticker.php:205
+msgid "Best understood format for the content is:"
+msgstr ""
+
+#: rp-news-ticker.php:206 rp-news-ticker.php:207
+msgid "something"
+msgstr ""
+
+#: rp-news-ticker.php:211
+msgid "Usage Type"
+msgstr ""
+
+#: rp-news-ticker.php:221
+msgid "Reset all settings to default"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "RP News Ticker"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.rationalplanet.com/2010/07/rp-newsticker-plugin-for-wordpress/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A versatile horizontal news ticker for sidebars using <a href=\"http://www."
+"gcmingati.net/wordpress/wp-content/lab/jquery/newsticker/jq-liscroll/"
+"scrollanimate.html\" target=\"_blank\">liScroll</a>. A must-have. No "
+"setting, just visit the widgets section. Should be backward-compatible from "
+"2.6+. Report bugs and submit ideas at <a href=\"http://www.rationalplanet."
+"com/2010/07/rp-newsticker-plugin-for-wordpress/\">the plugin's page</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Alexander Missa, offers@rationalplanet.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.rationalplanet.com"
+msgstr ""

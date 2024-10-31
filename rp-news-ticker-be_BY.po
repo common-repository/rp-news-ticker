@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RP News Ticker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-10 14:20+0300\n"
+"PO-Revision-Date: 2011-11-18 15:12+0200\n"
+"Last-Translator: \n"
+"Last-Translator: \n"
+"Language-Team: Web Geek\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ rp-news-ticker
+#: rp-news-ticker-admin.php:91
+msgid "RP News Ticker"
+msgstr "RP News Ticker"
+
+#: rp-news-ticker-admin.php:102
+msgid "Usage"
+msgstr "Карыстанне"
+
+#: rp-news-ticker-admin.php:103
+msgid "Get Help"
+msgstr "Атрыманне даведкі"
+
+#: rp-news-ticker-admin.php:104
+msgid "RP Plugins"
+msgstr "RP ўбудовы"
+
+#: rp-news-ticker-admin.php:105
+msgid "Thank you for using our plugins!"
+msgstr "Дзякуй за выкарыстанне нашых ўбудоў!"
+
+#: rp-news-ticker-admin.php:114
+msgid "- a news scroller that is able to display different useful content"
+msgstr "- Навіны скролерам, які здольны адлюстроўваць розныя карысны кантэнт"
+
+#: rp-news-ticker-admin.php:115
+msgid "demo"
+msgstr "дэманстрацыя"
+
+#: rp-news-ticker-admin.php:116
+#: rp-news-ticker-admin.php:121
+msgid "wordpress plugin page"
+msgstr "Убудова Wordpress старонку"
+
+#: rp-news-ticker-admin.php:119
+msgid "- recreate articles and pages slugs in database."
+msgstr "- Узнавіць артыкулаў і старонак кулі ў базе дадзеных."
+
+#: rp-news-ticker-admin.php:134
+msgid "Creating a Site-Wide Sidebar for Your Worpress Theme"
+msgstr "Стварэнне сайта-Wide Бакавая панэль для Вашага Worpress тэму"
+
+#: rp-news-ticker-admin.php:138
+msgid "Patterns to Format Date"
+msgstr "Шаблоны для фарматавання даты"
+
+#: rp-news-ticker-admin.php:142
+msgid "Hire a PHP Freelancer"
+msgstr "Арэнда PHP Freelancer"
+
+#: rp-news-ticker-admin.php:143
+msgid "one more link worth of reading"
+msgstr "яшчэ адна спасылка каштуе ад паказанняў"
+
+#: rp-news-ticker-admin.php:156
+msgid "Shortcode (posts, pages)"
+msgstr "Shortcode (паведамленняў, старонкі)"
+
+#: rp-news-ticker-admin.php:162
+msgid "Widget"
+msgstr "Віджэт"
+
+#: rp-news-ticker-admin.php:164
+msgid "Use simple \"Text\" widget"
+msgstr "Выкарыстоўвайце простыя \"Text\" фішак"
+
+#: rp-news-ticker-admin.php:165
+msgid "Add the shortcode above"
+msgstr "Дадаць кароткі вышэй"
+
+#: rp-news-ticker-admin.php:166
+msgid "Save"
+msgstr "Эканоміць"
+
+#: rp-news-ticker-admin.php:172
+msgid "Theme / PHP"
+msgstr "Тэма / PHP"
+
+#: rp-news-ticker-admin.php:185
+msgid "In the next version:"
+msgstr "У наступнай версіі:"
+
+#: rp-news-ticker-admin.php:186
+msgid "Change scroller speed, chose appear effect and more cool features!"
+msgstr "Змена хуткасці прагорткі, абраў з&#39;явіцца эфект і больш цікавыя функцыі!"
+
+#: rp-news-ticker-admin.php:202
+msgid "Stimulate developers to release new versions of this free software"
+msgstr "Стымуляваць распрацоўшчыкаў выпускаць новыя версіі гэтага бясплатнага праграмнага забеспячэння"
+
+#: rp-news-ticker-admin.php:214
+#: rp-news-ticker-admin.php:258
+msgid "Cheatin&#8217; uh?"
+msgstr "Э-э Cheatin?"
+
+#: rp-news-ticker-admin.php:332
+msgid "Settings"
+msgstr "Налады"
+
+# @ rp-news-ticker
+#: rp-news-ticker-admin.php:349
+msgid "RP Newsticker"
+msgstr "RP Ньюстикер"
+
+#: rp-news-ticker-admin.php:351
+msgid "Plugin release version:"
+msgstr "Версія ўбудовы рэліз:"
+
+#: rp-news-ticker-admin.php:352
+msgid "Discussion:"
+msgstr "Дыскусія:"
+
+#: rp-news-ticker-admin.php:369
+msgid "PLEASE NOTE:"
+msgstr "Звярніце ўвагу:"
+
+#: rp-news-ticker-admin.php:371
+msgid "<p>The <strong>next</strong> release of this plugin will be compatible only with php >= 5.3 and Wordpress >= 3.2.</p>"
+msgstr "<p> У <strong>наступнай версіі</strong> гэтага плагіна будзе сумяшчальная толькі з PHP&gt; = 05/03 і Wordpress&gt; = 3,2. </p>"
+
+#: rp-news-ticker-admin.php:391
+msgid ""
+"Have you analyzed the situation pretty much carefully?\\n"
+"Will you be satisfied with yourself after that?"
+msgstr ""
+"Ці будзеце вы задаволены сабой пасля гэтага? &quot;Вы хорошо проанализировали ситуацию?\\n"
+"Точно потом будуте удовлетворены собой?"
+
+#: rp-news-ticker-admin.php:411
+msgid "Description"
+msgstr "Апісанне"
+
+#: rp-news-ticker-admin.php:412
+msgid "Value"
+msgstr "Значэнне"
+
+#: rp-news-ticker-admin.php:417
+msgid "Usage type"
+msgstr "Выгляд выкарыстання"
+
+# @ rp-news-ticker
+#: rp-news-ticker-admin.php:421
+msgid "Category IDs (comma separated))"
+msgstr "Катэгорыя ідэнтыфікатараў (падзеленыя коскі))"
+
+#: rp-news-ticker-admin.php:425
+msgid "Dates formatting"
+msgstr "Даты фарматаванні"
+
+# @ rp-news-ticker
+#: rp-news-ticker-admin.php:429
+msgid "Limit latest posts"
+msgstr "Лімітавая апошнія паведамленні"
+
+# @ rp-news-ticker
+#: rp-news-ticker-admin.php:433
+msgid "Scroller Styles"
+msgstr "Скролерам Стылі"
+
+#: rp-news-ticker-admin.php:437
+msgid "Explicit Content"
+msgstr "Відавочныя Змесціва"
+
+#: rp-news-ticker-admin.php:441
+msgid "Attempt to stop checking for this plugin's updates (works only if the plugin is activated)"
+msgstr "Спроба спыніць праверкі абнаўленняў гэтага плагіна (працуе толькі калі ўбудова актываваны)"
+
+#: rp-news-ticker-admin.php:447
+msgid "Reset to Defaults"
+msgstr "Аднавіць значэнні па змаўчанні"
+
+#: rp-news-ticker-admin.php:449
+msgid "Save Changes"
+msgstr "Захаваць змены"
+
+#: rp-news-ticker-admin.php:469
+msgid "from categories"
+msgstr "з катэгорый"
+
+#: rp-news-ticker-admin.php:471
+msgid "from categories, randomized"
+msgstr "з катэгорый, рандомізірованного"
+
+#: rp-news-ticker-admin.php:473
+msgid "explicit content"
+msgstr "відавочнае змест"
+
+#: rp-news-ticker-admin.php:475
+msgid "explicit content, randomized"
+msgstr "відавочнае змест, рандомізірованного"
+
+#: rp-news-ticker-admin.php:477
+msgid "both in randomized order"
+msgstr "як у выпадковым парадку"
+
+#: rp-news-ticker-admin.php:479
+msgid "from categories, explicit content"
+msgstr "з катэгорый, відавочнае змест"
+
+#: rp-news-ticker-admin.php:481
+msgid "explicit content, from categories"
+msgstr "відавочнае змест, з катэгорый"
+
+#: rp-news-ticker-admin.php:501
+msgid "Leave empty for all categories"
+msgstr "Пакіньце пустым для ўсіх катэгорый"
+
+#: rp-news-ticker-admin.php:508
+msgid "PHP <em>date()</em> format used"
+msgstr "PHP <em>Date ()</em> фармаце, выкарыстоўваным"
+
+#: rp-news-ticker-admin.php:528
+msgid "If this field is non-empty and proper settings are set, the scroller tries to use \"li\" elements from it."
+msgstr "Калі гэтае поле не пуста і правільныя параметры ўстаноўлены, скролерам спрабуе выкарыстаць \"li\" элементы з яго"
+
+#: rp-news-ticker-admin.php:529
+msgid "Best understood format for the content is:"
+msgstr "Лепшы зразумеў фармат зместу:"
+
+#: rp-news-ticker-admin.php:530
+msgid "<li><span>something</span><a href=\"something\">something</a></li>"
+msgstr "<li> <span>што-то</span> <a href=\"something\">што-то</a></li>"
+
